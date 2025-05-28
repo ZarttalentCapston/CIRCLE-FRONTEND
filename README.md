@@ -1,7 +1,7 @@
 # CIRCLE-FRONTEND
 This is the frontend for CIRCLE.
 
-#Folder Structure
+# Folder Structure
 src/: Frontend code
 
 public/: Static assets
@@ -12,7 +12,7 @@ terraform/: Infrastructure as code
 
 .github/workflows/: CI/CD pipelines
 
-#Setup
+# Setup
 npm install
 
 npm run build
